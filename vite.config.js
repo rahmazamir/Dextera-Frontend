@@ -2,7 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/Dextera-Frontend/',
   plugins: [react()],
   server: {
     headers: {
