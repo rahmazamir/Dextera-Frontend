@@ -455,7 +455,7 @@ const DexteraLanding = () => {
                 <a key={i} href={href} className="text-slate-700 hover:text-blue-700 transition-colors" style={{ fontFamily: MR }}>{label}</a>
               ))}
              <a 
-  href="https://dextera.online/" 
+  href="https://app.dextera.online/" 
   target="_blank" 
   rel="noopener noreferrer"
   className="px-6 py-2.5 text-white rounded-lg hover:bg-blue-800 hover:shadow-lg transition-all duration-300" 
@@ -475,7 +475,7 @@ style={{ fontFamily: MR, backgroundColor: '#495696' }}
                   <a key={i} href={href} className="block text-slate-700" style={{ fontFamily: MR }} onClick={()=>setMobileMenuOpen(false)}>{label}</a>
                 ))}
                 <a 
-  href="https://dextera.online/" 
+  href="https://app.dextera.online/" 
   target="_blank" 
   rel="noopener noreferrer"
   className="block text-center w-full px-6 py-3 bg-blue-700 text-white rounded-full hover:bg-blue-800 transition-all duration-300" 
@@ -528,7 +528,7 @@ style={{ fontFamily: MR, backgroundColor: '#495696' }}
    {/* Get Started Button - with left padding */}
 <div className="absolute pl-8 md:pl-12 lg:pl-0" style={{  zIndex: 2, top: '160px', left: '0' }}>
   <a 
-    href="https://dextera.online/" 
+    href="https://app.dextera.online/" 
     target="_blank" 
     rel="noopener noreferrer"
     className="inline-flex items-center px-8 py-3 bg-white/20 backdrop-blur-sm border-2 border-white text-white rounded-full text-lg font-semibold hover:bg-white hover:text-[#586398] transition-all duration-300" 
@@ -561,7 +561,7 @@ style={{ fontFamily: MR, backgroundColor: '#495696' }}
         </div>
         <h2 className="text-3xl manrope-medium text-white mb-6">Your Right Hand in Criminal Law</h2>
         <a 
-  href="https://dextera.online/" 
+  href="https://app.dextera.online/" 
   target="_blank" 
   rel="noopener noreferrer"
   className="px-8 py-3 bg-white/20 backdrop-blur-sm border-2 border-white text-white rounded-full text-lg font-semibold hover:bg-white hover:text-[#586398] transition-all duration-300 inline-flex items-center" 
@@ -1166,7 +1166,7 @@ style={{ fontFamily: MR, backgroundColor: '#495696' }}
     <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white" style={{ fontFamily: MR }}>Ready to Experience Dextera?</h2>
     <p className="text-xl text-white mb-8" style={{ fontFamily: MR }}>Start understanding Pakistani criminal law with AI-powered assistance.</p>
     <a 
-      href="https://dextera.online/" 
+      href="https://app.dextera.online/" 
       target="_blank" 
       rel="noopener noreferrer"
       className="inline-block px-10 py-4 rounded-lg text-lg font-semibold hover:bg-blue-50 hover:shadow-2xl transition-all duration-300" 
